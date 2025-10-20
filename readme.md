@@ -1,4 +1,4 @@
-<img width="1000" height="250" alt="DeparBankBanner" src="https://github.com/user-attachments/assets/f755d8b5-7550-449c-a0d2-174962d8fcd5" />
+<img width="1000" height="250" alt="PokeCardsBanner" src="https://github.com/user-attachments/assets/1d75238d-8633-4a8a-9e70-3d4cb94b8452" />
 
 # POKECARDS API
 
